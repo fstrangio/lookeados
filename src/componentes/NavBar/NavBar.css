@@ -1,0 +1,19 @@
+header {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+    background-color: greenyellow;
+    width: 100%;
+}
+
+li {
+    cursor:pointer;
+    margin-left: 1rem;
+    color:black;
+    padding: 0px 0;
+    font-size: 18px;
+    text-align: center;
+}
